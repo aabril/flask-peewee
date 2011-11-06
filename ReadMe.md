@@ -2,16 +2,16 @@
 
 ## About this
 
-This is just a test to play with flask + peewee + flaskext.rest 
+This is just a test to play with flask + peewee + flaskext.rest     
 Trying to make a simple API with Python
 
-I'm playing with flask-admin and other flask-modules.
+I'm playing with flask-admin and other flask-modules.    
 Wish to make a flask skeleton as a bootstrap to make other apps.
 
 
 ## Reference
 
-* Getting Started with Flask-Pewee :
+* Getting Started with Flask-Pewee :    
 http://charlesleifer.com/docs/flask-peewee/getting-started.html#creating-a-flask-app
 
 ## Libraries 
@@ -22,16 +22,16 @@ http://charlesleifer.com/docs/flask-peewee/getting-started.html#creating-a-flask
 
 ## Install
 
-I'm using virtualenvwrapper to jail the environment
-Just like this:
-1. Install virtualenv and virtualenvwrapper 
-```sudo apt-get install virtualenvwrapper```
-2. Create your environment 
-```mkvirtualenv flasktest```
-3. Install dependencies 
-```pip install flask-peewee```
-4. Just play the party : 
-```python app.py``` 
+I'm using virtualenvwrapper to jail the environment    
+Just like this:    
+1. Install virtualenv and virtualenvwrapper     
+```sudo apt-get install virtualenvwrapper```    
+2. Create your environment     
+```mkvirtualenv flasktest```    
+3. Install dependencies     
+```pip install flask-peewee```    
+4. Just play the party :     
+```python app.py```     
 
 
 
